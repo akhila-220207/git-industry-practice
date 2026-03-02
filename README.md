@@ -33,3 +33,7 @@ Example: git clone --branch main repo-url
 ## git clone --depth
 Purpose: Performs shallow clone with limited commit history.
 Example: git clone --depth 1 repo-url
+
+![dm](https://github.com/user-attachments/assets/27677245-ed31-44cf-90bf-9291c86258d7)
+
+
