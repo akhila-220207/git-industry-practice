@@ -35,6 +35,7 @@ Purpose: Performs shallow clone with limited commit history.
 Example: git clone --depth 1 repo-url
 
 
+
 # 3️⃣ Repository Status & Inspection Commands
 
 ## git status
@@ -66,3 +67,6 @@ Purpose: Shows HEAD movement history.
 
 ## git shortlog
 Purpose: Summarizes commits by author.
+
+
+
