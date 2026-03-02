@@ -68,5 +68,26 @@ Purpose: Shows HEAD movement history.
 ## git shortlog
 Purpose: Summarizes commits by author.
 
+# 4️⃣ File Tracking Commands
 
+## git add
+Purpose: Stages specific file.
+
+## git add .
+Purpose: Stages all changes.
+
+## git add -p
+Purpose: Interactive staging.
+
+## git restore
+Purpose: Discards working directory changes.
+
+## git restore --staged
+Purpose: Unstages file.
+
+## git rm
+Purpose: Removes file from repository.
+
+## git mv
+Purpose: Renames or moves file.
 
