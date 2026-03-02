@@ -14,3 +14,22 @@ Purpose: Displays all git configuration.
 
 ## git config --unset
 Purpose: Removes specific config value.
+
+
+# 2️⃣ Repository Setup Commands
+
+## git init
+Purpose: Initializes new git repository.
+Example: git init
+
+## git clone
+Purpose: Clones remote repository.
+Example: git clone repo-url
+
+## git clone --branch
+Purpose: Clones specific branch only.
+Example: git clone --branch main repo-url
+
+## git clone --depth
+Purpose: Performs shallow clone with limited commit history.
+Example: git clone --depth 1 repo-url
