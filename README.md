@@ -33,3 +33,36 @@ Example: git clone --branch main repo-url
 ## git clone --depth
 Purpose: Performs shallow clone with limited commit history.
 Example: git clone --depth 1 repo-url
+
+
+# 3️⃣ Repository Status & Inspection Commands
+
+## git status
+Purpose: Shows working directory status.
+
+## git log
+Purpose: Displays commit history.
+
+## git log --oneline
+Purpose: Shows compact log.
+
+## git log --graph
+Purpose: Shows visual branch graph.
+
+## git show
+Purpose: Displays commit details.
+
+## git diff
+Purpose: Shows unstaged changes.
+
+## git diff --staged
+Purpose: Shows staged changes.
+
+## git blame
+Purpose: Shows line-by-line author info.
+
+## git reflog
+Purpose: Shows HEAD movement history.
+
+## git shortlog
+Purpose: Summarizes commits by author.
