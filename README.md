@@ -125,3 +125,29 @@ Purpose: Modifies last commit.
 
 ## git commit --no-edit
 Purpose: Amends commit without editing message.
+
+# 6️⃣ Branch Management Commands
+
+## git branch
+Purpose: Lists local branches.
+
+## git branch -a
+Purpose: Lists local and remote branches.
+
+## git checkout
+Purpose: Switches branch.
+
+## git checkout -b
+Purpose: Creates and switches branch.
+
+## git switch
+Purpose: Modern branch switching command.
+
+## git switch -c
+Purpose: Creates and switches branch.
+
+## git branch -d
+Purpose: Deletes branch safely.
+
+## git branch -D
+Purpose: Force deletes branch.
