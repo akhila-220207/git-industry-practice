@@ -72,6 +72,27 @@ Purpose: Summarizes commits by author.
 
 ## git add
 Purpose: Stages specific file.
+<<<<<<< HEAD
+
+## git add .
+Purpose: Stages all changes.
+
+## git add -p
+Purpose: Interactive staging.
+
+## git restore
+Purpose: Discards working directory changes.
+
+## git restore --staged
+Purpose: Unstages file.
+
+## git rm
+Purpose: Removes file from repository.
+
+## git mv
+Purpose: Renames or moves file.
+=======
+>>>>>>> 80cacffd4e56a022b7d4113512347695b61d6d8d
 
 ## git add .
 Purpose: Stages all changes.
@@ -91,3 +112,16 @@ Purpose: Removes file from repository.
 ## git mv
 Purpose: Renames or moves file.
 
+# 5️⃣ Commit Commands
+
+## git commit
+Purpose: Creates commit using editor message.
+
+## git commit -m
+Purpose: Creates commit with inline message.
+
+## git commit --amend
+Purpose: Modifies last commit.
+
+## git commit --no-edit
+Purpose: Amends commit without editing message.
