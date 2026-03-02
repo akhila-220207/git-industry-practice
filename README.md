@@ -91,3 +91,16 @@ Purpose: Removes file from repository.
 ## git mv
 Purpose: Renames or moves file.
 
+# 5️⃣ Commit Commands
+
+## git commit
+Purpose: Creates commit using editor message.
+
+## git commit -m
+Purpose: Creates commit with inline message.
+
+## git commit --amend
+Purpose: Modifies last commit.
+
+## git commit --no-edit
+Purpose: Amends commit without editing message.
